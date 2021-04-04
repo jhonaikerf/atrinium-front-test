@@ -1,0 +1,7 @@
+[
+    { "value": "nif", "name": "NIF", "spain": true, "natural": true, "legal": true},
+    { "value": "cif", "name": "CIF", "spain": true, "natural": false, "legal": true},
+    { "value": "nie", "name": "NIE", "spain": true, "natural": true, "legal": false},
+    { "value": "dni", "name": "DNI", "spain": true, "natural": true, "legal": false},
+    { "value": "passport", "name": "Pasaporte", "spain": false, "natural": true, "legal": false}
+]
